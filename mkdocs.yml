@@ -1,14 +1,14 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_name: 'ESIIL Training 4/24/2024'
+site_description: 'ESIIL Training Repo'
+site_author: Colleen Miller
+site_url: https://cu-esiil.github/io/training_repo_2024/
 
 # Repository
 repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_url: https://github.com/ccm246/training_repo_2024/
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
+copyright: 'Copyright &copy; 2023 University of Colorado Boulder & CRM'
 
 # Page tree
 nav:
